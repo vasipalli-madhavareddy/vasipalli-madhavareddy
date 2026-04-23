@@ -66,7 +66,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=vasipalli-madhavareddy&theme=tokyonight" />
 </p>
 
 ---
